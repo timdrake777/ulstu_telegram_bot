@@ -1,0 +1,24 @@
+{
+  "name": "ulstu_telegram_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timdrake777/ulstu_telegram_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timdrake777/ulstu_telegram_bot/issues"
+  },
+  "homepage": "https://github.com/timdrake777/ulstu_telegram_bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.59.0",
+    "nodemon": "^2.0.19"
+  }
+}
